@@ -1,10 +1,6 @@
-Absolutely Abhiram! Here's your **complete and ready-to-copy** `README.md` for **BillForge**, formatted professionally and suited for a backend-focused GitHub repository.
 
----
 
-### ✅ Just copy everything below and paste it into your `README.md` on GitHub:
 
-```markdown
 # 💼 BillForge – Multi-Tenant Invoicing Platform
 
 **BillForge** is a full-stack, secure, and scalable invoicing platform designed for modern organizations. Built using Next.js 15, it supports user and organization-based billing, robust authentication, payment integration, and real-time transactional workflows — all with a focus on clean backend architecture.
@@ -108,9 +104,4 @@ npx drizzle-kit push
 🔗 [LinkedIn](https://www.linkedin.com/in/abhiramgollapalli/)
 🔗 [GitHub](https://github.com/gollapalliabhiram)
 
----
-
-```
-
----
 
